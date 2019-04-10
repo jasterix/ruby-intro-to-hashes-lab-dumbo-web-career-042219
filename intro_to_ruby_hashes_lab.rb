@@ -11,7 +11,6 @@ end
 def monopoly
 	monopoly = {
 	  railroads:
-	  three_pieces_owned:
 	  
 	}
 
